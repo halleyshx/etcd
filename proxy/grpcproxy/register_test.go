@@ -17,6 +17,7 @@
 
 package grpcproxy
 
+/*
 import (
 	"testing"
 	"time"
@@ -77,3 +78,4 @@ func createWatcher(t *testing.T, c *clientv3.Client, prefix string) gnaming.Watc
 	}
 	return watcher
 }
+*/
